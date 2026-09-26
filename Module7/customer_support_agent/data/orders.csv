@@ -1,0 +1,6 @@
+order_id,customer_id,product,amount,status,condition
+1001,C001,MacBook Pro,1800,delivered,damaged
+1002,C002,Keyboard,120,delivered,good
+1003,C001,Monitor,600,shipped,pending
+1004,C003,Headphones,250,delivered,damaged
+1005,C003,Mouse,50,delivered,good
